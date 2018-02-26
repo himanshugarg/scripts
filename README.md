@@ -1,5 +1,8 @@
 # Misc Convenience Scripts
 
+## goodreads.js
+On a goodreads list hide books that don't have at least a million ratings
+
 ## playstore.js
 Parse playstore search results for Name, Details Link, Publisher, Price and Rating
 
