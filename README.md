@@ -1,7 +1,7 @@
 # Misc Convenience Scripts
 
 ## goodreads.js
-On a goodreads list hide books that don't have at least a million ratings
+On a goodreads [list](https://www.goodreads.com/list/show/488.Best_Books_for_Reluctant_Readers] hide books that don't have at least a million ratings)
 
 ## playstore.js
 Parse playstore search results for Name, Details Link, Publisher, Price and Rating
