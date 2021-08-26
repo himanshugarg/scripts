@@ -1,3 +1,4 @@
+# find the sentence that has maximum similarity with others
 import sys
 import re
 
